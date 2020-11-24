@@ -1,6 +1,5 @@
 from tkinter import *
 import re
-
 gui = Tk()
 gui.geometry('500x400+700+250')
 gui.title('PASSWORD GENERATOR')
